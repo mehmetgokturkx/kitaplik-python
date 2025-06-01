@@ -19,5 +19,5 @@ Bu proje, basit bir **Python tabanlı kişisel kitaplık** uygulamasıdır. Kull
 
 1. Bu projeyi klonlayın veya ZIP olarak indirin:
    ```bash
-   git clone https://github.com/mehmetgokturkx/todo-python.git
+   git clone https://github.com/mehmetgokturkx/kitaplik-python.git
    cd todo-python
